@@ -1,7 +1,4 @@
-# polis-sdk
-
-=====================================================================================================================================================================
-*👋 Hi, I’m [FourchinCookei-Money](https://fourchincookei.money) Owner of [MacDigital360](https://github.com/MacDigital360) github. 
+- 👋 Hi, I’m [FourchinCookei-Money](https://fourchincookei.money) Owner of [MacDigital360](https://github.com/MacDigital360) github. 
 - 👀 I’m interested in Blockchain Development Webapp Creator
 - 🌱 I’m currently learning [EIP2535 diamondCut()](https://eips.ethereum.org/EIPS/eip-2535), implementing with Smart Contracts.
 - 💞️ I’m looking to collaborate on Ethereum Blockchain, and bringing the EIP-2535 in to the Cloud, Google Cloud.
@@ -11,8 +8,13 @@ The code listed below was something I was given under MacDigital360, I was new t
 FourchinCookei-Money/FourchinCookei-Money is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---
+FourchinCookei-Money/FourchinCookei-Money is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 # Fourchin Cookei Money
 # Metis-Decentralized Autonomous Companies 	![Metis-Decentralized Autonomous Companies](https://pro2-bar-s3-cdn-cf2.myportfolio.com/7263091f-367e-4ec0-b9af-fdfef8ed71ee/319e744c-7348-416a-8a8c-d86610dd2d57_rw_1200.jpg?h=404ffa538e8e71653cd632b539412c56)
+# **polis-sdk**
 Owner &amp; Creator of https://boogle360.com, https://booski360.com https://metis-dac.io
 # Scientist!
 
